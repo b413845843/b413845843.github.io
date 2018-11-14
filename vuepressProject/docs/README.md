@@ -1,3 +1,9 @@
-# vuepress blog
+---
+home: true
+heroImage: /hero.jpg
+actionText: 文章列表 →
+actionLink: /vue/
+footer: CGB
+---
 
-![图片](./imgs/logo.jpg)
+~[sds](/hero.jpg)
